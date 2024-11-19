@@ -3,16 +3,8 @@
      \      / |  _  || |  | |  | __|  | __ <|    /| __| |  _  || |\  /| |
       \_/\_/  |_| |_||_|  |_|  |____| |____/|_|\_\|____||_| |_||_| \/ |_|
 */
-/*! \copyright Copyright (c) 2014-2021, White Bream, https://whitebream.nl
+/*! \copyright Copyright (c) 2014-2024, White Bream, https://whitebream.nl
 *************************************************************************//*!
- \file      usbd_mtp.c
- \brief     Media Transfer Protocol
- \version   1.0.0
- \since     June 27, 2014
- \date      June 29, 2021
-
- Project    S110, STM32 MTP Class
-
  Implementation of Picture Transfer Protocol (PTP) / Media Transfer
  Protocol (MTP) for the STM32 USB implementation by ST.
 ****************************************************************************/

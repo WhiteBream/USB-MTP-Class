@@ -5,14 +5,6 @@
 */
 /*! \copyright Copyright (c) 2014-2024, White Bream, https://whitebream.nl
 *************************************************************************//*!
- \file      usbd_mtp_hid.c
- \brief     Media Transfer Protocol
- \version   1.0.0
- \since     June 27, 2014
- \date      May 11, 2024
-
- Project    S110, STM32 MTP Class
-
  Implementation of Picture Transfer Protocol (PTP) and Media Transfer
  Protocol (MTP) for the STM32 USB implementation by ST.
 ****************************************************************************/
